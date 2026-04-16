@@ -1,1 +1,1 @@
-[TEST as](https://nnnnnoooooeeeee.github.io/stupidlogin/)
+[TEST](https://nnnnnoooooeeeee.github.io/stupidlogin/)
