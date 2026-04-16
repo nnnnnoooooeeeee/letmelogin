@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f5f5f5;
+}
+
+.logintitle {
+    text-align: center;
+}
+
+.loginbody {
+    width: 33.33%;
+    height: 70%;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.loginbuttonbox {
+    width: 100%;
+    margin-top: 8px;
+    /* border: 2px solid red; */
+    border-radius: 5px;
+    box-sizing: border-box;
+    flex-grow: 1;
+    position: relative;
+    overflow: hidden;
+}
+
+/* tombol */
+#loginBtn {
+    width: 100px;
+    padding: 10px;
+    position: absolute;
+    transition: 0.05s linear;
+}
